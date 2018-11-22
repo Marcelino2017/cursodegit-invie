@@ -1,2 +1,2 @@
 # cursodegit-invie
-probando git 
+las mejores prubas de git
